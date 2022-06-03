@@ -20,4 +20,4 @@ python main.py -e -o /generation
 ```
 
 ## Results
-
+This command gives a csv file called results.csv which is the final chart in our paper
